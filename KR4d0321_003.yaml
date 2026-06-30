@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR4d0321/krp/v1/juan/3
+seq: 3
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0321_WYG_003-1a, image: WYG1176/WYG1176-0847c.png}
+body:
+  text: 安晚堂集卷三宋鄭清之撰闕安晚堂集卷三欽定四庫全書安晚堂集卷三宋鄭清之撰闕安晚堂集卷三
+  hash: sha256:3065923d43f606cde80dd1f929c1096a80421c6902fd97f969d150375df6c475
+  markers:
+  - {type: page-break, offset: 18, content: '', id: KR4d0321_WYG_003-2a, image: WYG1176/WYG1176-0848a.png}
+metadata:
+  title: 安晚堂集,卷二
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:04:20.210281'
+  juan_title: 卷三原闕
+  source:
+    repository: kanripo
+    path: KR4d0321/KR4d0321_003.txt
+hash: sha256:4d307d363a418acf07ab917f6f9704664b08d1c952119d8df426ecbbec7d62df

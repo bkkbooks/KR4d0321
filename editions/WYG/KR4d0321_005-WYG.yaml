@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR4d0321/WYG/v1/juan/5
+seq: 5
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0321_WYG_005-1a, image: WYG1176/WYG1176-0849c.png}
+body:
+  text: 安晚堂集巻五宋鄭清之撰闕安晚堂集巻五欽定四庫全書安晚堂集巻五宋鄭清之撰闕安晚堂集巻五
+  hash: sha256:3d85d3599a472f2b8f897559dbcce50354c4f45072dd8555b8fd40f7c7693b75
+  markers:
+  - {type: page-break, offset: 18, content: '', id: KR4d0321_WYG_005-2a, image: WYG1176/WYG1176-0850a.png}
+metadata:
+  title: 安晚堂集,卷二
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:04:20.210281'
+  juan_title: 卷五原闕
+  source:
+    repository: kanripo
+    path: KR4d0321/KR4d0321_005.txt
+hash: sha256:f197dda2523bbec9b854166132ba7799bbeab39f934a58c53514d4a76a573360

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0321/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部四
+  hash: sha256:feea65c2c5f7b24c3923896ddfefeaca5f2adb12a64602844adb735e91a1782a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0321_WYG_000-1a, image: WYG1176/WYG1176-0845a.png}
+body:
+  text: 安晩堂集别集類三宋提要臣等謹案安晚堂集十二巻宋鄭清之撰清之初名燮字文叔後改今名字徳源安晚其别號也鄞縣人嘉定四年進士寳慶初以定䇿功累官太傅左丞相卒謚忠定事迹具宋史本傳所撰安晩集本六十巻宋時刋於臨安此本所存僅第六巻至第十二巻但有詩而無文較原目僅十之一考王士禎蠶尾集有安晩集跋亦稱僅古今體詩第六巻至第十二巻則康熈中巳無完本矣士禎但謂其詩多禪語而不言其工拙今觀所作大都直抒性情於白居易為近其咏梅咏雪七言歌行二十首亦頗有可觀且清之為相擢用正人時有小元祐之號在南宋中葉猶屬良臣不但其詩為足重固不容以殘缺廢也乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:e5675229760dda15c33c75dadcf4c706e96e37783095b727065f0d0d41a594dd
+metadata:
+  title: 安晚堂集,卷二
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:04:20.210281'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0321/KR4d0321_000.txt
+hash: sha256:589ca8a1f7ec4a263dff283b8d46ee43a572872e7c1b6d64a8329ea893cafd06
