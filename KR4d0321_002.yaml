@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4d0321_WYG_002-1a, image: WYG1176/WYG1176-0847a.png}
 body:
-  text: 安晚堂集卷二宋鄭清之撰闕安晚堂集卷二
-  hash: sha256:e6f870a1c74ffada618a3c61c8e0b39c47c9fa0608926c9977034c680bb1f9a8
+  text: 安晩堂集巻二宋鄭清之撰闕安晩堂集巻二
+  hash: sha256:57825c7a8c0d485542b778e3171402ed402962a642500559e4df6219613f8b6d
 metadata:
   title: 安晚堂集,卷二
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4d0321/KR4d0321_002.txt
-hash: sha256:a7966b718dee548712cfc4a81eb82421aaa5e88b35a2cdcc4a20a45cfb1d8d38
+hash: sha256:5dc8ce8229fed1753034e58a80e83eaf367497de7912bdd52fcc159a537dd8ca

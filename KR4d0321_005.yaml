@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4d0321_WYG_005-1a, image: WYG1176/WYG1176-0849c.png}
 body:
-  text: 安晚堂集卷五宋鄭清之撰闕安晚堂集卷五欽定四庫全書安晚堂集卷五宋鄭清之撰闕安晚堂集卷五
-  hash: sha256:4fdf367ccdc886d7abeee7856270a332a9b44b910d08bcd6955de22361ac05b8
+  text: 安晚堂集巻五宋鄭清之撰闕安晚堂集巻五欽定四庫全書安晚堂集巻五宋鄭清之撰闕安晚堂集巻五
+  hash: sha256:3d85d3599a472f2b8f897559dbcce50354c4f45072dd8555b8fd40f7c7693b75
   markers:
   - {type: page-break, offset: 18, content: '', id: KR4d0321_WYG_005-2a, image: WYG1176/WYG1176-0850a.png}
 metadata:
@@ -20,4 +20,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4d0321/KR4d0321_005.txt
-hash: sha256:661b240ed225c654319fe8df39d4caa3c60284e9b403c994075a88daf46d46b6
+hash: sha256:7830022cae0a5fa5ade73ce808af566943041e7a0ee7f80100f154f11b56e650
