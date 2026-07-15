@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4d0321_WYG_004-1a, image: WYG1176/WYG1176-0848c.png}
 body:
-  text: 安晩堂集巻四宋鄭清之撰闕安晚堂集巻四欽定四庫全書安晩堂集巻四宋鄭清之撰闕安晚堂集巻四
-  hash: sha256:083fcfff3ac4bd2f55124170970f0538120841dcb372c6f11201eb31315c549d
+  text: 安晚堂集卷四宋鄭清之撰闕安晚堂集卷四欽定四庫全書安晚堂集卷四宋鄭清之撰闕安晚堂集卷四
+  hash: sha256:5bec054d800647cbbb89f6b1428e92bfa753394a6d18df2a4594c1539b310411
   markers:
   - {type: page-break, offset: 18, content: '', id: KR4d0321_WYG_004-2a, image: WYG1176/WYG1176-0849a.png}
 metadata:
@@ -20,4 +20,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4d0321/KR4d0321_004.txt
-hash: sha256:80ac479b20138c64903c1fc938dc23691286e4fdce123bb64537e0a49ca32f45
+hash: sha256:5017c470db56100e7b5be06564c13a6623300e78b827b90ac13ceeecf1536693
